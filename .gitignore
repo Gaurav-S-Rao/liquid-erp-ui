@@ -7,3 +7,4 @@ vite.config.ts.*
 attached_assets
 
 .env
+package-lock.json
