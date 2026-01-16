@@ -1,12 +1,12 @@
 import { Switch, Route } from 'wouter'
-import FluxCore from '@/pages/home'
+import LiquidERP from '@/pages/home'
 import NotFound from '@/pages/not-found'
 import { Toaster } from '@/components/ui/toaster'
 
 function Router() {
   return (
     <Switch>
-      <Route path="/" component={FluxCore} />
+      <Route path="/" component={LiquidERP} />
       <Route component={NotFound} />
     </Switch>
   )

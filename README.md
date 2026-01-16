@@ -1,10 +1,10 @@
-# Liquid-Engine (FluxCore)
+# LiquidERP
 
 A next-generation Just-in-Time (JIT) UI generation platform for enterprise resource planning. This is a full-stack application that combines a modern React frontend with an Express.js backend, designed to create dynamic, on-demand interfaces for enterprise data.
 
 ## Project Vision
 
-FluxCore represents "The death of the dashboard" - software that builds itself when needed. Instead of navigating static dashboards, users summon interfaces via natural language commands. The platform aims to compete with traditional ERP systems like SAP/Oracle with a 5-minute setup versus 6-18 months.
+LiquidERP represents "The death of the dashboard" - software that builds itself when needed. Instead of navigating static dashboards, users summon interfaces via natural language commands. The platform aims to compete with traditional ERP systems like SAP/Oracle with a 5-minute setup versus 6-18 months.
 
 ## Tech Stack
 

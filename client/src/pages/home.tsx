@@ -513,7 +513,7 @@ const TooltipButton = ({
 
 // --- Main Application ---
 
-export default function FluxCore() {
+export default function LiquidERP() {
   const [query, setQuery] = useState('')
   const [view, setView] = useState<ViewType>('blank')
   const [isThinking, setIsThinking] = useState(false)
@@ -662,7 +662,7 @@ export default function FluxCore() {
             <Sparkles className="w-4 h-4" />
           </div>
           <span className="bg-clip-text text-transparent bg-linear-to-r from-primary to-primary/60">
-            FluxCore
+            LiquidERP
           </span>
         </div>
 
@@ -771,7 +771,7 @@ export default function FluxCore() {
                   Stop building dashboards. Summon them.
                   <br />
                   <span className="text-sm opacity-80 mt-2 block">
-                    FluxCore acts as a liquid interface layer over your enterprise data. No menus,
+                    LiquidERP acts as a liquid interface layer over your enterprise data. No menus,
                     no navigation—just the exact tool you need, the moment you need it.
                   </span>
                 </p>
